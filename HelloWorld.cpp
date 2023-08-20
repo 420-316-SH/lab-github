@@ -1,7 +1,9 @@
 #include <iostream>
 
+#include "fichier.h"
+
 using namespace std;
 
 void main() {
-	cout << "Hello World!" << endl;
+	helloWorld();
 }
