@@ -1,7 +1,5 @@
-#include <iostream>
-
-using namespace std;
+#include "fonctions.h"
 
 void main() {
-	cout << "Hello World!" << endl;
+	helloWorld();
 }
