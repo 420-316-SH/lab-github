@@ -4,8 +4,6 @@
 
 using namespace std;
 
-void main() {
-	helloWorld();
-
-	system("pause>0");
+void helloWorld() {
+	cout << "Hello World!" << endl;
 }
