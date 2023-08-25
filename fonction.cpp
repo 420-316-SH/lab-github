@@ -3,6 +3,7 @@
 
 using namespace std;
 
-void main() {
-	helloworld();
+void helloworld()
+{
+	cout << "hello world";
 }
