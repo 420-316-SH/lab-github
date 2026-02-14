@@ -1,7 +1,10 @@
 #include <iostream>
+#include "fonctions.h"
 
-using namespace std;
+int main()
+{
+	helloWorld();
 
-void main() {
-	cout << "Hello World!" << endl;
+	system("pause>NUL");
+	return 0;
 }
