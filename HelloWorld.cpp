@@ -1,7 +1,9 @@
 #include <iostream>
+#include "fonction.cpp"
 
 using namespace std;
 
 void main() {
-	cout << "Hello World!" << endl;
+	fonction f;
+	f.helloWorld();
 }
