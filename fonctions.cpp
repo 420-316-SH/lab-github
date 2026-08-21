@@ -1,9 +1,9 @@
 #include <iostream>
-#include "fonction.h"
+#include "fonctions.h"
 
 using namespace std;
 
-void fonction::helloWorld()
+void fonctions::helloWorld()
 {
 	cout << "Hello World!\n";
 }

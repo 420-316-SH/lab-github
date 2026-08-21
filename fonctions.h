@@ -1,5 +1,6 @@
 #pragma once
-class fonction
+
+class fonctions
 {
 	public:
 	void helloWorld();

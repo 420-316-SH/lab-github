@@ -1,9 +1,10 @@
 #include <iostream>
-#include "fonction.cpp"
+#include "fonctions.h"
 
 using namespace std;
 
-void main() {
-	fonction f;
+int main() {
+	fonctions f;
 	f.helloWorld();
+	return 0;
 }
