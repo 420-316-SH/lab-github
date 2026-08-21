@@ -1,7 +1,10 @@
 #include <iostream>
+#include "fonctions.h"
 
 using namespace std;
 
-void main() {
-	cout << "Hello World!" << endl;
+int main() {
+	fonctions f;
+	f.helloWorld();
+	return 0;
 }
